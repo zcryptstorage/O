@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CloudTab</string>
+    <string name="new_tab">New Tab</string>
+    <string name="search_or_enter_url">Search or enter website URL</string>
+    <string name="downloads">Downloads</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="permission_denied">Permission denied</string>
+</resources>

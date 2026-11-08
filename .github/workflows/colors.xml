@@ -1,0 +1,10 @@
+<resources>
+    <color name="brand_primary">#2563EB</color>
+    <color name="brand_secondary">#1D4ED8</color>
+    <color name="bg_dark">#0F172A</color>
+    <color name="surface_dark">#1E293B</color>
+    <color name="border_dark">#334155</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="accent_blue">#38BDF8</color>
+</resources>
